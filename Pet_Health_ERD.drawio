@@ -1,86 +1,86 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0" pages="3">
   <diagram name="DG - Pet Health Care System" id="5RFZxP0BeqSOCACooFSO">
-    <mxGraphModel dx="4189" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2935" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="82sC8I95lVZGLQukrnPo-1" value="Pet Health Care System" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="82sC8I95lVZGLQukrnPo-1" value="Pet Health Care System" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-2" value="Customer Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13" vertex="1" parent="1">
+        <mxCell id="82sC8I95lVZGLQukrnPo-2" value="Customer Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="220" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-3" value="Manage pets list&#xa;View pet details &amp; history&#xa;Book appointment &amp; cancel (refund rules)&#xa;Check-in &amp; pay extra services&#xa;Rate visits&#xa;Track inpatient care" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12" vertex="1" parent="82sC8I95lVZGLQukrnPo-2">
+        <mxCell id="82sC8I95lVZGLQukrnPo-3" value="Manage pets list&#xa;View pet details &amp; history&#xa;Book appointment &amp; cancel (refund rules)&#xa;Check-in &amp; pay extra services&#xa;Rate visits&#xa;Track inpatient care" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12" parent="82sC8I95lVZGLQukrnPo-2" vertex="1">
           <mxGeometry x="10" y="30" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-4" value="Staff Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13" vertex="1" parent="1">
+        <mxCell id="82sC8I95lVZGLQukrnPo-4" value="Staff Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13" parent="1" vertex="1">
           <mxGeometry x="320" y="160" width="220" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-5" value="Manage rooms&#xa;Manage bookings &amp; cancellations&#xa;Update inpatient info&#xa;Assign veterinarians (walk-in &amp; inpatient)" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12" vertex="1" parent="82sC8I95lVZGLQukrnPo-4">
+        <mxCell id="82sC8I95lVZGLQukrnPo-5" value="Manage rooms&#xa;Manage bookings &amp; cancellations&#xa;Update inpatient info&#xa;Assign veterinarians (walk-in &amp; inpatient)" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12" parent="82sC8I95lVZGLQukrnPo-4" vertex="1">
           <mxGeometry x="10" y="30" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-6" value="Veterinarian Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13" vertex="1" parent="1">
+        <mxCell id="82sC8I95lVZGLQukrnPo-6" value="Veterinarian Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13" parent="1" vertex="1">
           <mxGeometry x="600" y="160" width="220" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-7" value="Provide consultation schedule&#xa;Examine pets &amp; record medical notes&#xa;Care for inpatients &amp; update records" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12" vertex="1" parent="82sC8I95lVZGLQukrnPo-6">
+        <mxCell id="82sC8I95lVZGLQukrnPo-7" value="Provide consultation schedule&#xa;Examine pets &amp; record medical notes&#xa;Care for inpatients &amp; update records" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12" parent="82sC8I95lVZGLQukrnPo-6" vertex="1">
           <mxGeometry x="10" y="30" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-8" value="Admin Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" vertex="1" parent="1">
+        <mxCell id="82sC8I95lVZGLQukrnPo-8" value="Admin Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" parent="1" vertex="1">
           <mxGeometry x="880" y="160" width="220" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-9" value="Manage accounts&#xa;Configure system&#xa;Generate revenue reports" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12" vertex="1" parent="82sC8I95lVZGLQukrnPo-8">
+        <mxCell id="82sC8I95lVZGLQukrnPo-9" value="Manage accounts&#xa;Configure system&#xa;Generate revenue reports" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12" parent="82sC8I95lVZGLQukrnPo-8" vertex="1">
           <mxGeometry x="10" y="30" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-10" style="endArrow=block;strokeColor=#6c8ebf;" edge="1" parent="1" source="82sC8I95lVZGLQukrnPo-1" target="82sC8I95lVZGLQukrnPo-2" />
-        <mxCell id="82sC8I95lVZGLQukrnPo-11" style="endArrow=block;strokeColor=#6c8ebf;" edge="1" parent="1" source="82sC8I95lVZGLQukrnPo-1" target="82sC8I95lVZGLQukrnPo-4" />
-        <mxCell id="82sC8I95lVZGLQukrnPo-12" style="endArrow=block;strokeColor=#6c8ebf;" edge="1" parent="1" source="82sC8I95lVZGLQukrnPo-1" target="82sC8I95lVZGLQukrnPo-6" />
-        <mxCell id="82sC8I95lVZGLQukrnPo-13" style="endArrow=block;strokeColor=#6c8ebf;" edge="1" parent="1" source="82sC8I95lVZGLQukrnPo-1" target="82sC8I95lVZGLQukrnPo-8" />
-        <mxCell id="82sC8I95lVZGLQukrnPo-14" value="Pet Health Care System" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="82sC8I95lVZGLQukrnPo-10" style="endArrow=block;strokeColor=#6c8ebf;" parent="1" source="82sC8I95lVZGLQukrnPo-1" target="82sC8I95lVZGLQukrnPo-2" edge="1" />
+        <mxCell id="82sC8I95lVZGLQukrnPo-11" style="endArrow=block;strokeColor=#6c8ebf;" parent="1" source="82sC8I95lVZGLQukrnPo-1" target="82sC8I95lVZGLQukrnPo-4" edge="1" />
+        <mxCell id="82sC8I95lVZGLQukrnPo-12" style="endArrow=block;strokeColor=#6c8ebf;" parent="1" source="82sC8I95lVZGLQukrnPo-1" target="82sC8I95lVZGLQukrnPo-6" edge="1" />
+        <mxCell id="82sC8I95lVZGLQukrnPo-13" style="endArrow=block;strokeColor=#6c8ebf;" parent="1" source="82sC8I95lVZGLQukrnPo-1" target="82sC8I95lVZGLQukrnPo-8" edge="1" />
+        <mxCell id="82sC8I95lVZGLQukrnPo-14" value="Pet Health Care System" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-15" value="Customer Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13" vertex="1" parent="1">
+        <mxCell id="82sC8I95lVZGLQukrnPo-15" value="Customer Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="220" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-16" value="- Manage pets list&lt;br&gt;- View pet details &amp;amp; history&lt;br&gt;- Book appointment &amp;amp; cancel (refund rules)&lt;br&gt;- Check-in &amp;amp; pay extra services&lt;br&gt;- Rate visits&lt;br&gt;- Track inpatient care" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="82sC8I95lVZGLQukrnPo-15">
+        <mxCell id="82sC8I95lVZGLQukrnPo-16" value="- Manage pets list&lt;br&gt;- View pet details &amp;amp; history&lt;br&gt;- Book appointment &amp;amp; cancel (refund rules)&lt;br&gt;- Check-in &amp;amp; pay extra services&lt;br&gt;- Rate visits&lt;br&gt;- Track inpatient care" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="82sC8I95lVZGLQukrnPo-15" vertex="1">
           <mxGeometry x="10" y="30" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-17" value="Staff Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13" vertex="1" parent="1">
+        <mxCell id="82sC8I95lVZGLQukrnPo-17" value="Staff Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13" parent="1" vertex="1">
           <mxGeometry x="320" y="160" width="220" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-18" value="- Manage rooms&lt;br&gt;- Manage bookings &amp;amp; cancellations&lt;br&gt;- Update inpatient info&lt;br&gt;- Assign veterinarians (walk-in &amp;amp; inpatient)" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="82sC8I95lVZGLQukrnPo-17">
+        <mxCell id="82sC8I95lVZGLQukrnPo-18" value="- Manage rooms&lt;br&gt;- Manage bookings &amp;amp; cancellations&lt;br&gt;- Update inpatient info&lt;br&gt;- Assign veterinarians (walk-in &amp;amp; inpatient)" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="82sC8I95lVZGLQukrnPo-17" vertex="1">
           <mxGeometry x="10" y="30" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-19" value="Veterinarian Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13" vertex="1" parent="1">
+        <mxCell id="82sC8I95lVZGLQukrnPo-19" value="Veterinarian Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13" parent="1" vertex="1">
           <mxGeometry x="600" y="160" width="220" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-20" value="- Provide consultation schedule&lt;br&gt;- Examine pets &amp;amp; record medical notes&lt;br&gt;- Care for inpatients &amp;amp; update records" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="82sC8I95lVZGLQukrnPo-19">
+        <mxCell id="82sC8I95lVZGLQukrnPo-20" value="- Provide consultation schedule&lt;br&gt;- Examine pets &amp;amp; record medical notes&lt;br&gt;- Care for inpatients &amp;amp; update records" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="82sC8I95lVZGLQukrnPo-19" vertex="1">
           <mxGeometry x="10" y="30" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-21" value="Admin Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" vertex="1" parent="1">
+        <mxCell id="82sC8I95lVZGLQukrnPo-21" value="Admin Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" parent="1" vertex="1">
           <mxGeometry x="880" y="160" width="220" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-22" value="- Manage accounts&lt;br&gt;- Configure system&lt;br&gt;- Generate revenue reports" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="82sC8I95lVZGLQukrnPo-21">
+        <mxCell id="82sC8I95lVZGLQukrnPo-22" value="- Manage accounts&lt;br&gt;- Configure system&lt;br&gt;- Generate revenue reports" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="82sC8I95lVZGLQukrnPo-21" vertex="1">
           <mxGeometry x="10" y="30" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6c8ebf;" edge="1" parent="1" source="82sC8I95lVZGLQukrnPo-14" target="82sC8I95lVZGLQukrnPo-15">
+        <mxCell id="82sC8I95lVZGLQukrnPo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6c8ebf;" parent="1" source="82sC8I95lVZGLQukrnPo-14" target="82sC8I95lVZGLQukrnPo-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="100" as="sourcePoint" />
             <mxPoint x="150" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6c8ebf;" edge="1" parent="1" source="82sC8I95lVZGLQukrnPo-14" target="82sC8I95lVZGLQukrnPo-17">
+        <mxCell id="82sC8I95lVZGLQukrnPo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6c8ebf;" parent="1" source="82sC8I95lVZGLQukrnPo-14" target="82sC8I95lVZGLQukrnPo-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="100" as="sourcePoint" />
             <mxPoint x="430" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6c8ebf;" edge="1" parent="1" source="82sC8I95lVZGLQukrnPo-14" target="82sC8I95lVZGLQukrnPo-19">
+        <mxCell id="82sC8I95lVZGLQukrnPo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6c8ebf;" parent="1" source="82sC8I95lVZGLQukrnPo-14" target="82sC8I95lVZGLQukrnPo-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="100" as="sourcePoint" />
             <mxPoint x="710" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="82sC8I95lVZGLQukrnPo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6c8ebf;" edge="1" parent="1" source="82sC8I95lVZGLQukrnPo-14" target="82sC8I95lVZGLQukrnPo-21">
+        <mxCell id="82sC8I95lVZGLQukrnPo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6c8ebf;" parent="1" source="82sC8I95lVZGLQukrnPo-14" target="82sC8I95lVZGLQukrnPo-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="100" as="sourcePoint" />
             <mxPoint x="990" y="160" as="targetPoint" />
@@ -89,60 +89,152 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="y8jgBN0elw_tr8hmF79M" name="Trang-2">
+  <diagram id="y8jgBN0elw_tr8hmF79M" name="Pet_Health_ERD">
     <mxGraphModel dx="1281" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-1" value="Customer&#xa;PK: customer_id&#xa;name, phone, email, address" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-1" value="Customer&#xa;PK: customer_id&#xa;name, phone, email, address" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="60" y="60" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-2" value="Pet&#xa;PK: pet_id&#xa;name, species, breed, age&#xa;FK: customer_id" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-2" value="Pet&#xa;PK: pet_id&#xa;name, species, breed, age&#xa;FK: customer_id" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="60" y="220" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-3" value="Booking&#xa;PK: booking_id&#xa;date_time, status, fee&#xa;FK: customer_id, pet_id, vet_id, staff_id" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-3" value="Booking&#xa;PK: booking_id&#xa;date_time, status, fee&#xa;FK: customer_id, pet_id, vet_id, staff_id" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="320" y="60" width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-4" value="Room&#xa;PK: room_id&#xa;type, status, note" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-4" value="Room&#xa;PK: room_id&#xa;type, status, note" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="320" y="220" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-5" value="MedicalRecord&#xa;PK: record_id&#xa;diagnosis, treatment, vaccine, date&#xa;FK: pet_id, vet_id" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-5" value="MedicalRecord&#xa;PK: record_id&#xa;diagnosis, treatment, vaccine, date&#xa;FK: pet_id, vet_id" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="600" y="220" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-6" value="Invoice&#xa;PK: invoice_id&#xa;amount, date, status&#xa;FK: booking_id, customer_id" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-6" value="Invoice&#xa;PK: invoice_id&#xa;amount, date, status&#xa;FK: booking_id, customer_id" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="600" y="60" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-7" value="Veterinarian&#xa;PK: vet_id&#xa;name, specialization, schedule" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#3399ff;" vertex="1" parent="1">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-7" value="Veterinarian&#xa;PK: vet_id&#xa;name, specialization, schedule" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#3399ff;" parent="1" vertex="1">
           <mxGeometry x="900" y="60" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-8" value="Staff&#xa;PK: staff_id&#xa;name, role" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#ccebc5;strokeColor=#5aac5a;" vertex="1" parent="1">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-8" value="Staff&#xa;PK: staff_id&#xa;name, role" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#ccebc5;strokeColor=#5aac5a;" parent="1" vertex="1">
           <mxGeometry x="900" y="180" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-9" value="Admin&#xa;PK: admin_id&#xa;username, password, role" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#fdd9b5;strokeColor=#e67e22;" vertex="1" parent="1">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-9" value="Admin&#xa;PK: admin_id&#xa;username, password, role" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#fdd9b5;strokeColor=#e67e22;" parent="1" vertex="1">
           <mxGeometry x="900" y="280" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-10" style="endArrow=block;strokeColor=#000000;" edge="1" parent="1" source="SUOlAxOcxv_xGM8AsqfI-1" target="SUOlAxOcxv_xGM8AsqfI-2">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-10" style="endArrow=block;strokeColor=#000000;" parent="1" source="SUOlAxOcxv_xGM8AsqfI-1" target="SUOlAxOcxv_xGM8AsqfI-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-11" style="endArrow=block;strokeColor=#000000;" edge="1" parent="1" source="SUOlAxOcxv_xGM8AsqfI-1" target="SUOlAxOcxv_xGM8AsqfI-3">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-11" style="endArrow=block;strokeColor=#000000;" parent="1" source="SUOlAxOcxv_xGM8AsqfI-1" target="SUOlAxOcxv_xGM8AsqfI-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-12" style="endArrow=block;strokeColor=#000000;" edge="1" parent="1" source="SUOlAxOcxv_xGM8AsqfI-2" target="SUOlAxOcxv_xGM8AsqfI-3">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-12" style="endArrow=block;strokeColor=#000000;" parent="1" source="SUOlAxOcxv_xGM8AsqfI-2" target="SUOlAxOcxv_xGM8AsqfI-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-13" style="endArrow=block;strokeColor=#000000;" edge="1" parent="1" source="SUOlAxOcxv_xGM8AsqfI-3" target="SUOlAxOcxv_xGM8AsqfI-6">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-13" style="endArrow=block;strokeColor=#000000;" parent="1" source="SUOlAxOcxv_xGM8AsqfI-3" target="SUOlAxOcxv_xGM8AsqfI-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-14" style="endArrow=block;strokeColor=#000000;" edge="1" parent="1" source="SUOlAxOcxv_xGM8AsqfI-7" target="SUOlAxOcxv_xGM8AsqfI-3">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-14" style="endArrow=block;strokeColor=#000000;" parent="1" source="SUOlAxOcxv_xGM8AsqfI-7" target="SUOlAxOcxv_xGM8AsqfI-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-15" style="endArrow=block;strokeColor=#000000;" edge="1" parent="1" source="SUOlAxOcxv_xGM8AsqfI-8" target="SUOlAxOcxv_xGM8AsqfI-3">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-15" style="endArrow=block;strokeColor=#000000;" parent="1" source="SUOlAxOcxv_xGM8AsqfI-8" target="SUOlAxOcxv_xGM8AsqfI-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-16" style="endArrow=block;strokeColor=#000000;" edge="1" parent="1" source="SUOlAxOcxv_xGM8AsqfI-7" target="SUOlAxOcxv_xGM8AsqfI-5">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-16" style="endArrow=block;strokeColor=#000000;" parent="1" source="SUOlAxOcxv_xGM8AsqfI-7" target="SUOlAxOcxv_xGM8AsqfI-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUOlAxOcxv_xGM8AsqfI-17" style="endArrow=block;strokeColor=#000000;" edge="1" parent="1" source="SUOlAxOcxv_xGM8AsqfI-2" target="SUOlAxOcxv_xGM8AsqfI-5">
+        <mxCell id="SUOlAxOcxv_xGM8AsqfI-17" style="endArrow=block;strokeColor=#000000;" parent="1" source="SUOlAxOcxv_xGM8AsqfI-2" target="SUOlAxOcxv_xGM8AsqfI-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bYsrerUNzCPDlaMHpL-X" name="Pet_Health_UseCase">
+    <mxGraphModel dx="1281" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-1" value="Customer" style="shape=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-2" value="Staff" style="shape=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="20" y="250" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-3" value="Veterinarian" style="shape=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="20" y="400" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-4" value="Admin" style="shape=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="20" y="550" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-5" value="Register/Login" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="80" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-6" value="Manage Profile" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-7" value="Book Appointment" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-8" value="Cancel Appointment" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-9" value="Payment" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-10" value="Manage Pets" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-11" value="Medical Records" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="500" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-12" value="Manage Staff" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-13" value="System Settings" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-14" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-1" target="4GK5DP0XNZbFg5XSe3di-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-15" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-1" target="4GK5DP0XNZbFg5XSe3di-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-16" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-1" target="4GK5DP0XNZbFg5XSe3di-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-17" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-1" target="4GK5DP0XNZbFg5XSe3di-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-18" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-1" target="4GK5DP0XNZbFg5XSe3di-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-19" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-1" target="4GK5DP0XNZbFg5XSe3di-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-20" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-1" target="4GK5DP0XNZbFg5XSe3di-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-21" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-2" target="4GK5DP0XNZbFg5XSe3di-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-22" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-2" target="4GK5DP0XNZbFg5XSe3di-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-23" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-2" target="4GK5DP0XNZbFg5XSe3di-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-24" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-2" target="4GK5DP0XNZbFg5XSe3di-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-25" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-3" target="4GK5DP0XNZbFg5XSe3di-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-26" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-3" target="4GK5DP0XNZbFg5XSe3di-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-27" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-4" target="4GK5DP0XNZbFg5XSe3di-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GK5DP0XNZbFg5XSe3di-28" edge="1" parent="1" source="4GK5DP0XNZbFg5XSe3di-4" target="4GK5DP0XNZbFg5XSe3di-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
